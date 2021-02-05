@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/tiagolivesan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tiagolivesan" /></a>
 <a href="https://instagram.com/@xmineiro" target="blank"><img align="center" src="https://img.shields.io/badge/xmineiro-342680?style=for-the-badge&logo=instagram&logoColor=white" alt="@xmineiro" /></a>
+<a href="mailto:tiagolivesan@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/tiagolivesan@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" /></a>
+
 </p>
 
 <h2 align="left">👨‍💻 Languages and Tools:</h2>

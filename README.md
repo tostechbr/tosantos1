@@ -2,9 +2,9 @@
 
 <h2 align="left">Meu nome é Tiago Oliveira, sou estudante de Engenharia de Computação, apaixonado por tecnologias e esporte. Atualmente estou focado em estudar HTML, CSS, JavaScript, com objetivo de especializar em Front-end.</h2>
 
-<h3>📚  Sempre estou me aventurando no universo de Web Design, UX/UI Design.</h3>
-<h3>🏋️‍♂️Tenho como hobby o crossfit que veio como aprendizado para melhorar minha constância. </h3>
-<h3>🔥  Busco um diferencial usando motion, utilizando css e javascript puro.  </h3>
+<p>📚  Sempre estou me aventurando no universo de Web Design, UX/UI Design.<p>
+<p>🏋️‍♂️Tenho como hobby o crossfit que veio como aprendizado para melhorar minha constância. <p>
+<p>🔥  Busco um diferencial usando motion, utilizando css e javascript puro.  </p>
 
 <h2 align="left">📱 Connect with me:</h2>
 

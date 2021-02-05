@@ -1,6 +1,6 @@
 <h1> Olá, mundo! 👋 </h1>
 
-<h2 align="left">Meu nome é Tiago Oliveira, sou estudante de Engenharia de Computação, apaixonado por tecnologias e esporte. Atualmente estou focado em estudar HTML, CSS, JavaScript, com objetivo de especializar em Front-end.</h2>
+<h3 align="left">Meu nome é Tiago Oliveira, sou estudante de Engenharia de Computação, apaixonado por tecnologias e esporte. Atualmente estou focado em estudar HTML, CSS, JavaScript, com objetivo de especializar em Front-end.</h3>
 
 <p>📚  Sempre estou me aventurando no universo de Web Design, UX/UI Design.<p>
 <p>🏋️‍♂️Tenho como hobby o crossfit que veio como aprendizado para melhorar minha constância. <p>

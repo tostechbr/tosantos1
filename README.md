@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/tiagolivesan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tiagolivesan" /></a>
-<a href="https://instagram.com/@xmineiro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@xmineiro" /></a>
+<a href="https://instagram.com/@xmineiro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-342680?style=for-the-badge&logo=instagram&logoColor=white" alt="@xmineiro" /></a>
 </p>
 
 <h2 align="left">👨‍💻 Languages and Tools:</h2>

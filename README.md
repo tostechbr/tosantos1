@@ -8,7 +8,7 @@
 
 <h2 align="left">📱 Connect with me:</h2>
 
-<p align="left">
+<p align="left" style="border-radius: 12px;" >
 <a href="https://linkedin.com/in/tiagolivesan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tiagolivesan" /></a>
 <a href="https://instagram.com/@xmineiro" target="_blank"><img align="center" src="https://img.shields.io/badge/xmineiro-342680?style=for-the-badge&logo=instagram&logoColor=white" alt="@xmineiro" /></a>
 <a href="mailto:tiagolivesan@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/tiagolivesan@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" /></a>

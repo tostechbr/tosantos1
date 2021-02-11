@@ -24,3 +24,16 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosantos1&show_icons=true&locale=en&layout=compact" alt="tosantos1" /></p>
+
+<center>
+    <tr>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=tosantos1&show_icons=true&include_all_commits=true&theme=react" alt="Tiago's github stats" />
+      </td>
+    </tr>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosantos1&layout=compact&langs_count=20&theme=react" />
+      </td>
+    <tr>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tosantos1&theme=react&langs_count=20&layout=compact&v2" />
+      </td>
+    </tr>
+</center>

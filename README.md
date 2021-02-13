@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosantos1&show_icons=true&locale=en&layout=compact" alt="Tiago Oliveira" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosantos1&layout=compact)](https://github.com/tosantos1/python)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tosantos1)](https://github.com/tosantos1)
 
 
     

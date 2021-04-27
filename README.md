@@ -4,7 +4,6 @@
 
 <p>📚  Sempre estou me aventurando no universo de Web Design, UX/UI Design.<p>
 <p>🏋️‍♂️Tenho como hobby o crossfit que veio como aprendizado para melhorar minha constância. <p>
-<p>🔥  Busco um diferencial usando motion, utilizando css e javascript puro.  </p>
 
 <h2 align="left">📱 Connect with me:</h2>
 

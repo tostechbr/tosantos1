@@ -1,9 +1,11 @@
-<h1> Olá, mundo! 👋 </h1>
+<h1> Hello, world! 👋 </h1>
 
-<h3 align="left">Meu nome é Tiago Oliveira, sou estudante de Engenharia de Computação, apaixonado por tecnologias e esporte. Atualmente estou focado em estudar Front-end.</h3>
+<h3 align="left">My name is Tiago Oliveira, I am a Computer Engineering student, passionate about technology and sport. I am currently focused on studying Front-end.
+</h3>
 
-<p>📚  Sempre estou me aventurando no universo de UX/UI Design.<p>
-<p>🏋️‍♂️Tenho como hobby o crossfit que veio como aprendizado para melhorar minha constância. <p>
+<p>📚  I am always venturing into the universe of UX / UI Design.<p>
+<p>🏋️‍♂️I have as a hobby the crossfit that came as an apprenticeship to improve my constancy.
+ <p>
 
 <h2 align="left">📱 Connect with me:</h2>
 

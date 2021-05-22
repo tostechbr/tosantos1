@@ -1,4 +1,4 @@
-<h1> Hello, world! 👋 </h1>
+<h1> 💡 Focus is on knowing how to say no - Steve Jobs </h1>
 
 <h3 align="left">My name is Tiago Oliveira, I am a Computer Engineering student, passionate about technology and sport. I am currently focused on studying Front-end.
 </h3>
